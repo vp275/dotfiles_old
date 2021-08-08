@@ -1,0 +1,142 @@
+{
+  "check-book-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAAAcgAAAHIA/////wEAAAABAA=="
+  },
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "find-widget-state": {
+    "case_sensitive": false,
+    "direction": "down",
+    "dot_all": false,
+    "mode": "normal",
+    "where": "current",
+    "wrap": true
+  },
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAUAAAAARgAACf8AAAhvAAAFBAAAAEYAAAn7AAAIawAAAAAAAAAADwAAAAUEAAAARgAACfsAAAhr"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAD9AAAHy/wCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAAEMAAAfLAAAAhwD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAIcA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAKIA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAANQA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAq4A////AAAAAQAAA1IAAAfL/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAQwAAB8sAAABtAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAACHAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAA6gD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAABAAP///wAAAJUAAAfLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABOP////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+  },
+  "recent-books": [
+    "/home/vp/quant/bkPythonForAlgoTrading/c4/Luciano Ramalho - Fluent Python_ Clear, Concise, and Effective Programming-O'Reilly Media, Inc. (2021).epub",
+    "/home/vp/MEGA/calibre/Guy Cohen/The Bible of Options Strategies (37)/The Bible of Options Strategies - Guy Cohen.epub",
+    "/home/vedant/MEGA/Academics/Mercury/Applications - Phase II/SoP/Material Used/100 Successful College Application Essays (The Harvard Independent) Retail epub [Itzy]/100 Successful College Applicat - The Harvard Independent.epub",
+    "/home/vedant/MEGA/calibre/Santosh Nair/Bulls, Bears and Other Beasts (25)/Bulls, Bears and Other Beasts - Santosh Nair.epub",
+    "/home/vedant/Downloads/Accounting - 27 Nov /in.epub",
+    "/home/vedant/Downloads/David Allen - Making It All Work_ Winning at the Game of Work and the Business of Life-Penguin Books (2009).epub",
+    "/home/vedant/Downloads/Steve Nison - Japanese Candlestick Charting Techniques_ A Contemporary Guide to the Ancient Investment Techniques of the Far East, Second Edition-Penguin (2001).epub"
+  ],
+  "reports-ui-state": {},
+  "saved_seaches_state": {
+    "direction": "down",
+    "where": "current",
+    "wrap": true
+  },
+  "search-panel-visible": false,
+  "text_search_widget_state": {
+    "case_sensitive": false,
+    "dot_all": true,
+    "mode": "normal",
+    "where": "current"
+  }
+}

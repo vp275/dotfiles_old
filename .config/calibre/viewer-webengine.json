@@ -1,0 +1,555 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAAAAAARgAADv8AAAhvAAAABAAAAEYAAA77AAAIawAAAAAAAAAADwAAAAAEAAAARgAADvsAAAhr"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAGPAAAIJvwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawEAAAAAAAAIJgAAANAA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAA3wD///8AAAABAAABLgAACCb8AgAAAAT7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsCAAAGTwAAAAAAAAErAAAEOPsAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABUA////+wAAAB4AaABpAGcAaABsAGkAZwBoAHQAcwAtAGQAbwBjAGsAAAAAAP////8AAAErAP////sAAAAWAGwAbwBvAGsAdQBwAC0AZABvAGMAawAAAAAAAAAIJgAAAKoA////AAANXwAACCYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 26,
+    "book_scrollbar": false,
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "sepia-light",
+    "footer": {
+      "left": "pos-chapter",
+      "middle": "empty",
+      "right": "progress"
+    },
+    "header": {
+      "left": "empty",
+      "middle": "clock",
+      "right": "time-chapter"
+    },
+    "hide_tooltips": null,
+    "highlight_style": {
+      "kind": "color",
+      "type": "builtin",
+      "which": "green"
+    },
+    "keyboard_shortcuts": {
+      "decrease_font_size": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "-",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "_",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "-",
+          "metaKey": false,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "_",
+          "metaKey": false,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "-",
+          "metaKey": true,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "_",
+          "metaKey": true,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "-",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "down": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "ArrowDown",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "j",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "s",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "increase_font_size": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "=",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "+",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "+",
+          "metaKey": false,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "=",
+          "metaKey": false,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "+",
+          "metaKey": true,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "+",
+          "metaKey": true,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "=",
+          "metaKey": true,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "=",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "left": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "ArrowLeft",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "h",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "a",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "pagedown": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": " ",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "PageDown",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "d",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "pageup": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "PageUp",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": " ",
+          "metaKey": false,
+          "shiftKey": true
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "u",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "right": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "ArrowRight",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "l",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "d",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "toggle_toc": [
+        {
+          "altKey": false,
+          "ctrlKey": true,
+          "key": "t",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "t",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ],
+      "up": [
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "ArrowUp",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "k",
+          "metaKey": false,
+          "shiftKey": false
+        },
+        {
+          "altKey": false,
+          "ctrlKey": false,
+          "key": "w",
+          "metaKey": false,
+          "shiftKey": false
+        }
+      ]
+    },
+    "left-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "lines_per_sec_smooth": 30,
+    "margin_bottom": 60,
+    "margin_left": 60,
+    "margin_right": 60,
+    "margin_top": 60,
+    "max_text_height": 1600,
+    "max_text_width": 1100,
+    "override_book_colors": "never",
+    "paged_pixel_scroll_threshold": 60,
+    "read_mode": "paged",
+    "right-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "standalone_font_settings": {
+      "sans_family": "Open Sans",
+      "zoom_step_size": 5
+    },
+    "standalone_misc_settings": {
+      "remember_window_geometry": true
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Yves Hilpisch"
+        ],
+        "key": "/home/vp/MEGA/calibre/Yves Hilpisch/Python for Algorithmic Trading (96)/Python for Algorithmic Trading - Yves Hilpisch.epub",
+        "pathtoebook": "/home/vp/MEGA/calibre/Yves Hilpisch/Python for Algorithmic Trading (96)/Python for Algorithmic Trading - Yves Hilpisch.epub",
+        "timestamp": "2021-07-30T13:42:20.545Z",
+        "title": "Python for Algorithmic Trading"
+      },
+      {
+        "authors": [
+          "Luciano Ramalho"
+        ],
+        "key": "/home/vp/MEGA/calibre/Luciano Ramalho/Fluent Python, 2nd Edition (99)/Fluent Python, 2nd Edition - Luciano Ramalho.epub",
+        "pathtoebook": "/home/vp/MEGA/calibre/Luciano Ramalho/Fluent Python, 2nd Edition (99)/Fluent Python, 2nd Edition - Luciano Ramalho.epub",
+        "timestamp": "2021-07-30T13:41:59.385Z",
+        "title": "Fluent Python, 2nd Edition"
+      },
+      {
+        "authors": [
+          "Stefan Jansen"
+        ],
+        "key": "/home/vp/MEGA/calibre/Stefan Jansen/Machine Learning for Algorithmic Trading (97)/Machine Learning for Algorithmic Trading - Stefan Jansen.epub",
+        "pathtoebook": "/home/vp/MEGA/calibre/Stefan Jansen/Machine Learning for Algorithmic Trading (97)/Machine Learning for Algorithmic Trading - Stefan Jansen.epub",
+        "timestamp": "2021-07-23T07:17:48.509Z",
+        "title": "Machine Learning for Algorithmic Trading"
+      },
+      {
+        "authors": [
+          "Yves Hilpisch"
+        ],
+        "key": "/home/vp/MEGA/calibre/Yves Hilpisch/Derivatives Analytics with Python_ Data Analysis, Models, Simulation, Calibration and Hedging (12)/Derivatives Analytics with Python_ Data An - Yves Hilpisch.epub",
+        "pathtoebook": "/home/vp/MEGA/calibre/Yves Hilpisch/Derivatives Analytics with Python_ Data Analysis, Models, Simulation, Calibration and Hedging (12)/Derivatives Analytics with Python_ Data An - Yves Hilpisch.epub",
+        "timestamp": "2021-07-23T06:46:16.642Z",
+        "title": "Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging"
+      },
+      {
+        "authors": [
+          "Guy Cohen"
+        ],
+        "key": "/home/vp/MEGA/calibre/Guy Cohen/The Bible of Options Strategies (37)/The Bible of Options Strategies - Guy Cohen.epub",
+        "pathtoebook": "/home/vp/MEGA/calibre/Guy Cohen/The Bible of Options Strategies (37)/The Bible of Options Strategies - Guy Cohen.epub",
+        "timestamp": "2021-07-07T09:39:43.700Z",
+        "title": "The Bible of Options Strategies"
+      },
+      {
+        "authors": [
+          "Tony Robbins"
+        ],
+        "key": "/home/vp/MEGA/calibre/Tony Robbins/Awaken the Giant Within (95)/Awaken the Giant Within - Tony Robbins.epub",
+        "pathtoebook": "/home/vp/MEGA/calibre/Tony Robbins/Awaken the Giant Within (95)/Awaken the Giant Within - Tony Robbins.epub",
+        "timestamp": "2021-07-07T09:39:15.960Z",
+        "title": "Awaken the Giant Within"
+      },
+      {
+        "authors": [
+          "Tony Robbins"
+        ],
+        "key": "/home/vp/cal1/Tony Robbins/Awaken the Giant Within (95)/Awaken the Giant Within - Tony Robbins.epub",
+        "pathtoebook": "/home/vp/cal1/Tony Robbins/Awaken the Giant Within (95)/Awaken the Giant Within - Tony Robbins.epub",
+        "timestamp": "2021-07-06T10:43:24.991Z",
+        "title": "Awaken the Giant Within"
+      },
+      {
+        "authors": [
+          "Tony Robbins"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Tony Robbins/Awaken the Giant Within (95)/Awaken the Giant Within - Tony Robbins.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Tony Robbins/Awaken the Giant Within (95)/Awaken the Giant Within - Tony Robbins.epub",
+        "timestamp": "2021-07-06T10:27:50.155Z",
+        "title": "Awaken the Giant Within"
+      },
+      {
+        "authors": [
+          "Guy Cohen"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Guy Cohen/The Bible of Options Strategies (37)/The Bible of Options Strategies - Guy Cohen.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Guy Cohen/The Bible of Options Strategies (37)/The Bible of Options Strategies - Guy Cohen.epub",
+        "timestamp": "2021-06-22T13:33:59.178Z",
+        "title": "The Bible of Options Strategies"
+      },
+      {
+        "authors": [
+          "Edwin Lef?vre",
+          "Markman, Jon D.",
+          "Jones, Paul Tudor"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Edwin Lefevre/Reminiscences of a Stock Operator (46)/Reminiscences of a Stock Operator - Edwin Lefevre.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Edwin Lefevre/Reminiscences of a Stock Operator (46)/Reminiscences of a Stock Operator - Edwin Lefevre.epub",
+        "timestamp": "2021-06-21T03:05:30.798Z",
+        "title": "Reminiscences of a Stock Operator"
+      },
+      {
+        "authors": [
+          "Carol Dweck"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Carol Dweck/Mindset (73)/Mindset - Carol Dweck.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Carol Dweck/Mindset (73)/Mindset - Carol Dweck.epub",
+        "timestamp": "2021-06-08T01:32:54.748Z",
+        "title": "Mindset - Updated Edition: Changing The Way You think To Fulfil Your Potential"
+      },
+      {
+        "authors": [
+          "The Harvard Independent"
+        ],
+        "key": "/home/vedant/MEGA/calibre/The Harvard Independent/100 Successful College Application Essays (78)/100 Successful College Application Essays - The Harvard Independent.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/The Harvard Independent/100 Successful College Application Essays (78)/100 Successful College Application Essays - The Harvard Independent.epub",
+        "timestamp": "2021-06-02T13:03:05.078Z",
+        "title": "100 Successful College Application Essays"
+      },
+      {
+        "authors": [
+          "Yves Hilpisch"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Yves Hilpisch/Derivatives Analytics with Python_ Data Analysis, Models, Simulation, Calibration and Hedging (12)/Derivatives Analytics with Python_ Data An - Yves Hilpisch.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Yves Hilpisch/Derivatives Analytics with Python_ Data Analysis, Models, Simulation, Calibration and Hedging (12)/Derivatives Analytics with Python_ Data An - Yves Hilpisch.epub",
+        "timestamp": "2021-05-26T00:26:39.233Z",
+        "title": "Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging"
+      },
+      {
+        "authors": [
+          "John Schember"
+        ],
+        "key": "/home/vedant/MEGA/calibre/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/John Schember/Quick Start Guide (1)/Quick Start Guide - John Schember.epub",
+        "timestamp": "2021-05-25T15:57:13.027Z",
+        "title": "Quick Start Guide"
+      },
+      {
+        "authors": [
+          "Tom Hoobyar"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Tom Hoobyar/NLP_ The Essential Guide (55)/NLP_ The Essential Guide - Tom Hoobyar.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Tom Hoobyar/NLP_ The Essential Guide (55)/NLP_ The Essential Guide - Tom Hoobyar.epub",
+        "timestamp": "2021-05-25T15:48:08.984Z",
+        "title": "NLP"
+      },
+      {
+        "authors": [
+          "Barbara Oakley"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Barbara Oakley/A Mind for Numbers_ How to Excel at Math and Science (Even if You Flunked Algebra) (3)/A Mind for Numbers_ How to Excel at Math a - Barbara Oakley.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Barbara Oakley/A Mind for Numbers_ How to Excel at Math and Science (Even if You Flunked Algebra) (3)/A Mind for Numbers_ How to Excel at Math a - Barbara Oakley.epub",
+        "timestamp": "2021-05-19T02:45:39.129Z",
+        "title": "A Mind for Numbers: How to Excel at Math and Science (Even if You Flunked Algebra)"
+      },
+      {
+        "authors": [
+          "James Nestor;"
+        ],
+        "key": "/home/vedant/MEGA/calibre/James Nestor;/Breath (74)/Breath - James Nestor;.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/James Nestor;/Breath (74)/Breath - James Nestor;.epub",
+        "timestamp": "2021-05-17T15:26:58.424Z",
+        "title": "Breath"
+      },
+      {
+        "authors": [
+          "Sander van Vugt"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Sander van Vugt/Red Hat RHCSA 8 Cert Guide_ EX200, 2nd edition (66)/Red Hat RHCSA 8 Cert Guide_ EX200, 2nd edi - Sander van Vugt.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Sander van Vugt/Red Hat RHCSA 8 Cert Guide_ EX200, 2nd edition (66)/Red Hat RHCSA 8 Cert Guide_ EX200, 2nd edi - Sander van Vugt.epub",
+        "timestamp": "2021-04-09T00:13:59.755Z",
+        "title": "Red Hat RHCSA 8 Cert Guide: EX200, 2nd edition"
+      },
+      {
+        "authors": [
+          "Horwitz, Steven;"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Horwitz, Steven;/Austrian Economics (65)/Austrian Economics - Horwitz, Steven;.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Horwitz, Steven;/Austrian Economics (65)/Austrian Economics - Horwitz, Steven;.epub",
+        "timestamp": "2021-03-20T08:04:02.126Z",
+        "title": "Austrian Economics"
+      },
+      {
+        "authors": [
+          "Martin Berkhan"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Martin Berkhan/The Leangains Method_ The Art of Getting Ripped. Researched, Practiced, Perfected_ (61)/The Leangains Method_ The Art of Getting R - Martin Berkhan.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Martin Berkhan/The Leangains Method_ The Art of Getting Ripped. Researched, Practiced, Perfected_ (61)/The Leangains Method_ The Art of Getting R - Martin Berkhan.epub",
+        "timestamp": "2021-03-14T08:27:09.581Z",
+        "title": "The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected."
+      },
+      {
+        "authors": [
+          "Epictetus"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Epictetus/Discourses, Fragments, Handbook (50)/Discourses, Fragments, Handbook - Epictetus.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Epictetus/Discourses, Fragments, Handbook (50)/Discourses, Fragments, Handbook - Epictetus.epub",
+        "timestamp": "2021-02-01T00:11:47.123Z",
+        "title": "Discourses, Fragments, Handbook"
+      },
+      {
+        "authors": [
+          "Cal Newport;"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Cal Newport;/Digital Minimalism (38)/Digital Minimalism - Cal Newport;.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Cal Newport;/Digital Minimalism (38)/Digital Minimalism - Cal Newport;.epub",
+        "timestamp": "2021-01-24T14:13:05.873Z",
+        "title": "Digital Minimalism"
+      },
+      {
+        "authors": [
+          "Al Brooks"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Al Brooks/Trading Price Action Reversals (48)/Trading Price Action Reversals - Al Brooks.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Al Brooks/Trading Price Action Reversals (48)/Trading Price Action Reversals - Al Brooks.epub",
+        "timestamp": "2021-01-22T02:48:06.964Z",
+        "title": "Trading Price Action Reversals"
+      },
+      {
+        "authors": [
+          "Al Brooks"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Al Brooks/Trading Price Action Trends (47)/Trading Price Action Trends - Al Brooks.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Al Brooks/Trading Price Action Trends (47)/Trading Price Action Trends - Al Brooks.epub",
+        "timestamp": "2021-01-18T16:03:42.126Z",
+        "title": "Trading Price Action Trends"
+      },
+      {
+        "authors": [
+          "Yves Hilpisch"
+        ],
+        "key": "/home/vedant/MEGA/calibre/Yves Hilpisch/Python for Finance_ Analyze Big Financial Data (7)/Python for Finance_ Analyze Big Financial - Yves Hilpisch.epub",
+        "pathtoebook": "/home/vedant/MEGA/calibre/Yves Hilpisch/Python for Finance_ Analyze Big Financial Data (7)/Python for Finance_ Analyze Big Financial - Yves Hilpisch.epub",
+        "timestamp": "2021-01-13T15:14:26.463Z",
+        "title": "Python for Finance: Analyze Big Financial Data"
+      }
+    ],
+    "user_color_schemes": {}
+  }
+}

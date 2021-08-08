@@ -1,0 +1,25 @@
+import:
+  - ~/.config/alacritty/themes/breeze.yml
+
+# Font for alacritty
+
+font:
+  normal:
+    family: Iosevka Term 
+    style: Regular
+
+  bold:
+    family: Iosevka Term
+    style: Bold
+
+  italic:
+    family: Iosevka Term 
+    style: Italic
+
+  bold-italic:
+    family: Iosevka Term
+    style: Bold Italic
+
+  size: 13
+
+background_opacity: 0.9

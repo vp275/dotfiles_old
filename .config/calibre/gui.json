@@ -1,0 +1,245 @@
+{
+  "advanced search dialog current tab": 0,
+  "basic_metadata_widget_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAADAAAA+wAAAcwAAAEZAf////8BAAAAAQA="
+  },
+  "book_details_splitter_horizontal_state": [
+    true,
+    200
+  ],
+  "book_info_dialog_layout": [
+    {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAPVAAAAGAAACyYAAAgnAAAD1wAAABoAAAskAAAIJQAAAAAAAAAADwAAAAPXAAAAGgAACyQAAAgl"
+    },
+    {
+      "__class__": "bytearray",
+      "__value__": "AAAA/wAAAAEAAAACAAABXgAAAV4B/////wEAAAABAA=="
+    }
+  ],
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAHIA/////wEAAAABAA=="
+  },
+  "book_list_split": false,
+  "bulk_metadata_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAZAAAAAAAADtYAAAhBAAAAGwAAAAIAAA7UAAAIPwAAAAAAAAAADwAAAAAbAAAAAgAADtQAAAg/"
+  },
+  "bulk_metadata_window_tab": 0,
+  "choose-merge-dialog-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAI0AAADcgAABU8AAAThAAACNgAAA3QAAAVNAAAE3wAAAAAAAAAADwAAAAI2AAADdAAABU0AAATf"
+  },
+  "choose-merge-dialog-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAAB/gAAAQAA/////wEAAAABAA=="
+  },
+  "config_widget_dialog_geometry_Sharing_Metadata download": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAEIAAADFAAAA/kAAAU9AAABCgAAAxYAAAP3AAAFOwAAAAAAAAAADwAAAAEKAAADFgAAA/cAAAU7"
+  },
+  "convert_single_dialog_geom": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAbAAAAFAAADtgAAAgjAAAAHQAAABYAAA7WAAAIIQAAAAAAAAAADwAAAAAdAAAAFgAADtYAAAgh"
+  },
+  "cover_browser_splitter_vertical_state": [
+    false,
+    300
+  ],
+  "cover_grid_color": [
+    80,
+    80,
+    80
+  ],
+  "cover_grid_texture": null,
+  "custcol-prefs-table-geometry": [
+    150,
+    133,
+    512,
+    114
+  ],
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "default_author_link": null,
+  "duplicates-question-dialog-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAKCAAADbgAABWsAAAT1AAAChgAAA24AAAVnAAAE8QAAAAAAAAAADwAAAAKGAAADbgAABWcAAATx"
+  },
+  "exim-calibre-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAIsAAAA1wAABU8AAAMwAAACLgAAANcAAAVNAAADLgAAAAAAAAAAB4AAAAIuAAAA1wAABU0AAAMu"
+  },
+  "font": [
+    "DejaVu Sans",
+    7,
+    50,
+    false
+  ],
+  "font_stretch": 0,
+  "grid view visible": false,
+  "hidpi": "off",
+  "image_popup_fit_image": false,
+  "jobs view column layout3": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnEAAAAFAQEBAAAAAAAAAAAAAAAAAH3/////AAAAhAAAAAAAAAAFAAAAfQAAAAEAAAAAAAAAfQAAAAEAAAAAAAAAfQAAAAEAAAAAAAAAfQAAAAEAAAAAAAAAfQAAAAEAAAAAAAAD6AAAAAAA"
+  },
+  "jobs_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAKCAAADFwAABP4AAAU4AAAChAAAAxkAAAT8AAAFNgAAAAAAAAAADwAAAAKEAAADGQAABPwAAAU2"
+  },
+  "library-annotations-browser-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAWrAAACuwAACUwAAAVTAAAFrQAAAr0AAAlKAAAFUQAAAAAAAAAADwAAAAWtAAACvQAACUoAAAVR"
+  },
+  "library-annotations-browser-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABxgAAAcIA/////wEAAAABAA=="
+  },
+  "library_usage_stats": {
+    "/home/vp/MEGA/calibre": 50,
+    "/home/vp/cal1": 270
+  },
+  "metasingle_window_geometry3": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAcAAABcgAACh8AAAcVAAAAHgAAAXQAAAodAAAHEwAAAAAAAAAADwAAAAAeAAABdAAACh0AAAcT"
+  },
+  "preferences dialog geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAACoAAAB9QAABtcAAAYzAAAArAAAAfUAAAbTAAAGLwAAAAAAAAAADwAAAACsAAAB9QAABtMAAAYv"
+  },
+  "previous_sort_order_BooksView": {
+    "#area": true,
+    "#audiobook": true,
+    "#status": false,
+    "authors": false,
+    "last_modified": false,
+    "pubdate": true,
+    "rating": true,
+    "tags": false,
+    "timestamp": false,
+    "title": true
+  },
+  "quick_start_guide_added": true,
+  "quickview visible": false,
+  "quickview_dialog_books_table_widths": [
+    198,
+    198,
+    198
+  ],
+  "quickview_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAImAAADigAABVUAAATjAAACKAAAA4wAAAVTAAAE4QAAAAAAAAAADwAAAAIoAAADjAAABVMAAATh"
+  },
+  "recently_used_languages": [
+    "English"
+  ],
+  "search bar visible": true,
+  "show_emblems": false,
+  "tag browser search box visible": false,
+  "tag_browser_splitter_horizontal_state": [
+    true,
+    200
+  ],
+  "viewer_image_popup_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAR6AAAAFgAACn0AAAhXAAAEfAAAABgAAAp7AAAIVQAAAAAAAAAADwAAAAR8AAAAGAAACnsAAAhV"
+  }
+}

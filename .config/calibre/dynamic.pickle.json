@@ -1,0 +1,30 @@
+{
+  "add books dialog dir": "/home/vp/Downloads",
+  "choose-export-folder-for-import": "/home/vp/MEGA/1inbox/ubuntu to arch backup - 4 Jul 2021/calibre backup - 6 jul 2021",
+  "database location dialog": "/home/vp/MEGA/calibre",
+  "select-folder-for-imported-library": "/home/vp/cal1",
+  "sort_history": [
+    [
+      "#status",
+      false
+    ],
+    [
+      "last_modified",
+      false
+    ],
+    [
+      "#area",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "tablet",
+  "welcome_wizard_was_run": true
+}
