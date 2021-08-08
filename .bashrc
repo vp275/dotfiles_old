@@ -22,7 +22,6 @@ alias rb='reboot'
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles --work-tree=$HOME'
 alias du1='du --max-depth=1 -h'
 
-# test
 alias trade='tradingview & brave --app-id=mdgacmegdapeabbgeipilljdhmibgobo & brave --app-id=dgjelipecbboepmgmphabimaihmnndno'
 
 PS1='[\u@\h \W]\$ '
