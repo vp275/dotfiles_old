@@ -7,7 +7,7 @@
 ;; Some functionality uses this to identify you, e.g. GPG configuration, email
 ;; clients, file templates and snippets.
 (setq user-full-name "alphaQ"
-      user-mail-address "41702642+vp275@users.noreply.github.com")
+      user-mail-address "text@gmail.com")
 
 ;; Doom exposes five (optional) variables for controlling fonts in Doom. Here
 ;; are the three important ones:
@@ -34,7 +34,7 @@
 (setq doom-modeline-height '35)
 ;; If you use `org' and don't want your org files in the default location below,
 ;; change `org-directory'. It must be set before org loads!
-(setq org-directory "~/MEGA/org/")
+(setq org-directory "~/org/")
 
 ;; This determines the style of line numbers in effect. If set to `nil', line
 ;; numbers are disabled. For relative line numbers, set this to `relative'.
@@ -60,15 +60,15 @@
 
 
 
-(setq org-roam-directory "~/MEGA/org/org-roam")
-(setq deft-directory "~/MEGA/org/org-roam")
+(setq org-roam-directory "~/org/org-roam")
+(setq deft-directory "~/org/org-roam")
 
-(setq org-journal-dir "~/MEGA/org/journal")
+(setq org-journal-dir "~/org/journal")
 
-(setq org-agenda-files '("~/MEGA/org/gtd/"))
-(setq +org-capture-todo-file "~/MEGA/org/gtd/inbox.org")
+(setq org-agenda-files '("~/org/gtd/"))
+(setq +org-capture-todo-file "~/org/gtd/inbox.org")
 
-(setq org-roam-db-location "~/MEGA/org/org-roam/org-roam.db")
+(setq org-roam-db-location "~/org/org-roam/org-roam.db")
 
 
 (setq doom-modeline-major-mode-icon t)
