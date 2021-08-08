@@ -240,3 +240,10 @@ config.bind('eb', 'config-cycle statusbar.show always never')
 config.bind('et', 'config-cycle tabs.show always never')
 config.bind('ee', 'config-cycle statusbar.show always never;; config-cycle tabs.show always never')
 config.bind('M', 'hint links spawn vlc {hint-url}')
+
+
+
+# Launch Pages
+config.bind(',gh', 'open -t https://github.com')
+config.bind(',rrd', 'open -t https://reddit.com/r/reddevils')
+config.bind(',rf1', 'open -t https://reddit.com/r/formula1')
