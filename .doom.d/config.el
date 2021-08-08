@@ -93,6 +93,3 @@
       (:prefix ("t". "timer")
        :desc "Start a timer"            "t" #'org-timer-set-timer
        :desc "Stop timer"               "s" #'org-timer-stop))
-
-
-

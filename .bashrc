@@ -19,7 +19,6 @@ alias py='python3'
 alias rr='ranger'
 alias v='vim'
 alias rb='reboot'
-alias config='/usr/bin/git --git-dir=$HOME/dotfiles --work-tree=$HOME'
 alias du1='du --max-depth=1 -h'
 
 alias trade='tradingview & brave --app-id=mdgacmegdapeabbgeipilljdhmibgobo & brave --app-id=dgjelipecbboepmgmphabimaihmnndno'
@@ -38,3 +37,10 @@ export PATH="/home/vp/.local/bin/:$PATH"
 export RANGER_LOAD_DEFAULT_RC=FALSE
 
 source /home/vp/.config/broot/launcher/bash/br
+
+
+
+# Dotfiles management
+alias dtf='/usr/bin/git --git-dir=$HOME/dotfiles --work-tree=$HOME'
+alias dtfs='dtf status'
+alias dtfminor='dtf status && dtf add -u && dtf commit -m "minor changes" && dtf push'
