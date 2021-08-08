@@ -19,7 +19,8 @@ alias py='python3'
 alias rr='ranger'
 alias v='vim'
 alias rb='reboot'
-alias du1='du --max-depth=1 -h'
+alias du1='du --max-depth=1 -h | sort -n -r'
+alias du11='du --max-depth=1 | sort -n -r'
 
 alias trade='tradingview & brave --app-id=mdgacmegdapeabbgeipilljdhmibgobo & brave --app-id=dgjelipecbboepmgmphabimaihmnndno'
 

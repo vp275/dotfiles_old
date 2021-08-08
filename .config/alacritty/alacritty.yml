@@ -5,21 +5,21 @@ import:
 
 font:
   normal:
-    family: Iosevka Term 
+    family: JetBrains Mono 
     style: Regular
 
   bold:
-    family: Iosevka Term
+    family: JetBrains Mono
     style: Bold
 
   italic:
-    family: Iosevka Term 
+    family: JetBrains Mono 
     style: Italic
 
   bold-italic:
-    family: Iosevka Term
+    family: JetBrains Mono
     style: Bold Italic
 
-  size: 13
+  size: 10
 
-background_opacity: 0.9
+background_opacity: 0.95
