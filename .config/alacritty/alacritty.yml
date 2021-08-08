@@ -6,19 +6,19 @@ import:
 font:
   normal:
     family: JetBrains Mono 
-    style: Regular
+    style: Light
 
   bold:
     family: JetBrains Mono
-    style: Bold
+    style: Light Bold
 
   italic:
     family: JetBrains Mono 
-    style: Italic
+    style: Light Italic
 
   bold-italic:
     family: JetBrains Mono
-    style: Bold Italic
+    style: Light Bold Italic
 
   size: 10
 
