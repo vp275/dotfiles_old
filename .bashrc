@@ -44,4 +44,4 @@ source /home/vp/.config/broot/launcher/bash/br
 # Dotfiles management
 alias dtf='/usr/bin/git --git-dir=$HOME/dotfiles --work-tree=$HOME'
 alias dtfs='dtf status'
-alias dtfminor='dtf status && dtf add -u && dtf commit -m "minor changes" && dtf push'
+alias dtfminor='dtf add -u && dtf commit -m "minor changes" && dtf push'
