@@ -79,7 +79,7 @@
 
 
 (require 'org)
-(setq org-clock-sound "~/Downloads/ding.wav")
+(setq org-clock-sound "~/.doom.d/ding.wav")
 
 (setq org-ellipsis " ▾ ")
 (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))
