@@ -205,6 +205,7 @@ c.url.searchengines = {
     "map":      'https://www.google.com/maps/search/{}',
     "dic":      'https://www.dictionary.com/browse/{}',
     "syn":      'https://www.thesaurus.com/browse/{}'
+
 }
 
 
