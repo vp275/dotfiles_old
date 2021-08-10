@@ -201,7 +201,11 @@ c.url.searchengines = {
     "yt":       'https://www.youtube.com/results?search_query={}',
     "gh":       'https://github.com/search?q={}',
     "ud":       'https://www.urbandictionary.com/define.php?term={}',
-    "aur":      'https://aur.archlinux.org/packages/?O=0&K={}'
+    "aur":      'https://aur.archlinux.org/packages/?O=0&K={}',
+    "map":      'https://www.google.com/maps/search/{}',
+    "dic":      'https://www.dictionary.com/browse/{}',
+    "syn":      'https://www.thesaurus.com/browse/{}'
+
 }
 
 
