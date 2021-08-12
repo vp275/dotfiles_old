@@ -96,3 +96,7 @@
       (:prefix ("t". "timer")
        :desc "Start a timer"            "t" #'org-timer-set-timer
        :desc "Stop timer"               "s" #'org-timer-stop))
+
+;; (map! :leader
+;;       :desc "i3 Config"
+;;       "i 3" #'find-file '~/.config/i3/config)

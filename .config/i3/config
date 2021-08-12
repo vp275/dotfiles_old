@@ -246,7 +246,7 @@ exec_always megasync
 exec guake
 exec_always picom --config ~/.config/picom/picom.conf
 exec_always albert
-exec imwheel -b "45"
+exec imwheel --kill --buttons "45"
 exec_always ~/.config/polybar/launch.sh
 exec dunst
 
@@ -254,7 +254,7 @@ exec dunst
 exec_always setxkbmap -option caps:escape
 
 # Display wallpaper
-exec_always feh --bg-fill ~/MEGA/wallpapersVP/2021/desert.jpg
+exec_always feh --bg-fill ~/MEGA/wallpapersVP/2021/solar.jpeg
 
 
 # App keybindings
