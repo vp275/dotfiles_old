@@ -191,64 +191,37 @@ c.url.default_page = 'https://google.com/'
 # the search engine name to the search term, e.g. `:open google
 # qutebrowser`.
 # Type: Dict
-c.url.searchengines = {
-    'DEFAULT':  'https://google.com/search?q={}',
-    "re":       "https://reddit.com/r/{unquoted}",
-    "am":       "https://www.amazon.in/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}",
-    "amg":      "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}",
-    "ams":      "https://www.amazon.sg/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}",
-    "aw":       'https://wiki.archlinux.org/?search={}',
-    "yt":       'https://www.youtube.com/results?search_query={}',
-    "gh":       'https://github.com/search?q={}',
-    "ud":       'https://www.urbandictionary.com/define.php?term={}',
-    "aur":      'https://aur.archlinux.org/packages/?O=0&K={}',
-    "map":      'https://www.google.com/maps/search/{}',
-    "dic":      'https://www.dictionary.com/browse/{}',
-    "syn":      'https://www.thesaurus.com/browse/{}'
-
-}
-
-
-
-
-
+c.url.searchengines = {'DEFAULT': 'https://google.com/search?q={}', 're': 'https://reddit.com/r/{unquoted}', 'am': 'https://www.amazon.in/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}', 'amg': 'https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}', 'ams': 'https://www.amazon.sg/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}', 'aw': 'https://wiki.archlinux.org/?search={}', 'alp': 'https://archlinux.org/packages/?q={}', 'yt': 'https://www.youtube.com/results?search_query={}', 'gh': 'https://github.com/search?q={}', 'ud': 'https://www.urbandictionary.com/define.php?term={}', 'aur': 'https://aur.archlinux.org/packages/?O=0&K={}', 'map': 'https://www.google.com/maps/search/{}', 'dic': 'https://www.dictionary.com/browse/{}', 'syn': 'https://www.thesaurus.com/browse/{}'}
 
 # Page(s) to open at the start.
 # Type: List of FuzzyUrl, or FuzzyUrl
 c.url.start_pages = 'https://google.com'
 
+# Default zoom level.
+# Type: Perc
+c.zoom.default = '120%'
+
 # Bindings for normal mode
+config.bind(',ba', 'bookmark-add')
+config.bind(',bd', 'bookmark-del')
+config.bind(',gh', 'open -t https://github.com')
+config.bind(',hn', 'open -t https://news.ycombinator.com')
+config.bind(',rf1', 'open -t https://reddit.com/r/formula1')
+config.bind(',rrd', 'open -t https://reddit.com/r/reddevils')
+config.bind('0', 'zoom')
+config.bind('=', 'zoom-in')
 config.bind('J', 'tab-prev')
 config.bind('K', 'tab-next')
+config.bind('M', 'hint links spawn vlc {hint-url}')
+config.bind('W', 'tab-give')
 config.bind('d', 'scroll-px 0 1500')
+config.bind('eb', 'config-cycle statusbar.show always never')
+config.bind('ee', 'config-cycle statusbar.show always never;; config-cycle tabs.show always never')
+config.bind('ehc', 'history-clear')
+config.bind('et', 'config-cycle tabs.show always never')
 config.bind('j', 'scroll-px 0 150')
 config.bind('k', 'scroll-px 0 -150')
 config.bind('u', 'scroll-px 0 -1500')
 config.bind('up', 'tab-only')
 config.bind('x', 'tab-close')
 config.bind('z', 'undo')
-config.bind('W', 'tab-give')
-config.bind('ehc', 'history-clear')
-config.bind('=', 'zoom-in')
-config.bind('0', 'zoom')
-config.bind(',ba', 'bookmark-add')
-config.bind(',bd', 'bookmark-del')
-
-
-
-# Setting dark mode
-#config.set("colors.webpage.darkmode.enabled", True)
-
-# Bindings for normal mode
-config.bind('eb', 'config-cycle statusbar.show always never')
-config.bind('et', 'config-cycle tabs.show always never')
-config.bind('ee', 'config-cycle statusbar.show always never;; config-cycle tabs.show always never')
-config.bind('M', 'hint links spawn vlc {hint-url}')
-
-
-
-# Launch Pages
-config.bind(',gh', 'open -t https://github.com')
-config.bind(',rrd', 'open -t https://reddit.com/r/reddevils')
-config.bind(',rf1', 'open -t https://reddit.com/r/formula1')
-config.bind(',hn', 'open -t https://news.ycombinator.com')
