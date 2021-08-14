@@ -259,8 +259,8 @@ exec_always feh --bg-fill ~/MEGA/wallpapersVP/2021/elementaryos.jpg
 
 # App keybindings
 bindsym $mod+x exec i3lock
-bindsym $mod+e exec alacritty -e ranger
-bindsym $mod+Ctrl+e exec nautilus
+bindsym $mod+Ctrl+e exec alacritty -e ranger
+bindsym $mod+e exec nautilus
 bindsym $mod+Ctrl+Shift+e exec alacritty -e broot
 bindsym $mod+plus exec amixer set Master 5%+
 bindsym $mod+minus exec amixer set Master 5%-
