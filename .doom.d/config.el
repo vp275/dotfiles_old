@@ -74,8 +74,8 @@
 (setq doom-modeline-major-mode-icon t)
 
 ;; Emacs Transparency
-(set-frame-parameter (selected-frame) 'alpha '(98 98))
-(add-to-list 'default-frame-alist '(alpha 98 98))
+;; (set-frame-parameter (selected-frame) 'alpha '(98 98))
+;; (add-to-list 'default-frame-alist '(alpha 98 98))
 
 
 (require 'org)

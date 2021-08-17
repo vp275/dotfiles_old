@@ -181,8 +181,9 @@ bindsym $mod+Shift+Ctrl+0 move container to workspace number $ws20
 bindsym $mod+Tab workspace next
 bindsym $mod+Shift+Tab workspace prev
 
-# Navigate/Shift to next free workspace
+# Navigate and Shift to next free workspace
 bindsym $mod+grave exec --no-startup-id /home/vp/.config/i3/available
+# bindsym $mod+Shift+grave exec --no-startup-id /usr/bin/i3-next-workspace --move-window-and-follow
 
 # reload the configuration file
 bindsym $mod+Shift+c reload

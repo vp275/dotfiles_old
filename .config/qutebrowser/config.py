@@ -191,9 +191,17 @@ c.url.default_page = 'https://google.com/'
 # the search engine name to the search term, e.g. `:open google
 # qutebrowser`.
 # Type: Dict
-c.url.searchengines = {'DEFAULT': 'https://google.com/search?q={}',
-                       're': 'https://reddit.com/r/{unquoted}',
-                       'am': 'https://www.amazon.in/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}', 'amg': 'https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}', 'ams': 'https://www.amazon.sg/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}', 'aw': 'https://wiki.archlinux.org/?search={}', 'alp': 'https://archlinux.org/packages/?q={}', 'yt': 'https://www.youtube.com/results?search_query={}', 'gh': 'https://github.com/search?q={}', 'ud': 'https://www.urbandictionary.com/define.php?term={}', 'aur': 'https://aur.archlinux.org/packages/?O=0&K={}', 'map': 'https://www.google.com/maps/search/{}', 'dic': 'https://www.dictionary.com/browse/{}', 'syn': 'https://www.thesaurus.com/browse/{}', 'wiki': 'https://en.wikipedia.org/w/index.php?search={unquoted}'}
+c.url.searchengines = {'DEFAULT': 'https://duckduckgo.com/?q={unquoted}',
+                       're':        'https://reddit.com/r/{unquoted}',
+                       'am':        'https://www.amazon.in/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}', 'amg': 'https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}', 'ams': 'https://www.amazon.sg/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords={}', 'aw': 'https://wiki.archlinux.org/?search={}', 'alp': 'https://archlinux.org/packages/?q={}', 'yt': 'https://www.youtube.com/results?search_query={}', 'gh': 'https://github.com/search?q={}', 'ud': 'https://www.urbandictionary.com/define.php?term={}', 'aur': 'https://aur.archlinux.org/packages/?O=0&K={}',
+                       'map':       'https://www.google.com/maps/search/{}',
+                       'dic':       'https://www.dictionary.com/browse/{}',
+                       'syn':       'https://www.thesaurus.com/browse/{}',
+                       'wiki':      'https://en.wikipedia.org/w/index.php?search={unquoted}',
+                       'g':         'https://google.com/search?q={unquoted}',
+                       'gn':        'https://google.com/search?q={unquoted}&source=lnms&tbm=nws',
+                       'gi':        'https://www.google.com/search?q={unquoted}&hl=en&tbm=isch&source=hp&biw=',
+                       'link':      'https://www.linkedin.com/search/results/all/?keywords={unquoted}'}
 
 # Page(s) to open at the start.
 # Type: List of FuzzyUrl, or FuzzyUrl
@@ -227,3 +235,13 @@ config.bind('u', 'scroll-px 0 -1500')
 config.bind('up', 'tab-only')
 config.bind('x', 'tab-close')
 config.bind('z', 'undo')
+config.bind('wq', 'quit')
+config.bind('qr', 'restart')
+
+config.unbind('q')
+
+
+# Qutebrowser Fonts
+
+c.fonts.default_family = 'JetBrains Mono'
+c.fonts.default_size = '9pt'
