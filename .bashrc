@@ -23,6 +23,8 @@ alias du1='du --max-depth=1 -h | sort -n -r'
 alias du11='du --max-depth=1 | sort -n -r'
 
 alias trade='tradingview & brave --app-id=mdgacmegdapeabbgeipilljdhmibgobo & brave --app-id=dgjelipecbboepmgmphabimaihmnndno'
+alias ytb='youtube-dl -f bestvideo+bestaudio'
+alias ytf='youtube-dl -F'
 
 PS1='[\u@\h \W]\$ '
 
