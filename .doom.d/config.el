@@ -81,6 +81,9 @@
 (require 'org)
 (setq org-clock-sound "~/.doom.d/ding.wav")
 
+
+
+
 (setq org-ellipsis " ▾ ")
 (add-hook 'org-mode-hook (lambda () (org-bullets-mode 1)))
 (setq org-bullets-bullet-list '("⁖"))
@@ -100,3 +103,14 @@
 ;; (map! :leader
 ;;       :desc "i3 Config"
 ;;       "i 3" #'find-file '~/.config/i3/config)
+
+
+
+
+;; Vulpea
+(use-package vulpea
+  :ensure t
+  ;; hook into org-roam-db-autosync-mode you wish to enable
+  ;; persistence of meta values (see respective section in README to
+  ;; find out what meta means)
+  :hook ((org-roam-db-autosync-mode . vulpea-db-setup)))

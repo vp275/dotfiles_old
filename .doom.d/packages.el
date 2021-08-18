@@ -9,7 +9,6 @@
 ;; To install SOME-PACKAGE from MELPA, ELPA or emacsmirror:
 ;(package! some-package)
 
-(package! org-journal)
 ;; To install a package directly from a remote git repo, you must specify a
 ;; `:recipe'. You'll find documentation on what `:recipe' accepts here:
 ;; https://github.com/raxod502/straight.el#the-recipe-format
@@ -54,3 +53,6 @@
 (package! org-roam-server)
 (package! pine-script-mode)
 (package! org-bullets)
+(package! vulpea)
+
+(unpin! org-roam)
