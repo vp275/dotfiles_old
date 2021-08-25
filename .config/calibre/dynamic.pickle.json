@@ -9,19 +9,11 @@
       false
     ],
     [
-      "#course",
-      true
-    ],
-    [
       "#area",
       true
     ],
     [
       "#status",
-      false
-    ],
-    [
-      "last_modified",
       false
     ],
     [
