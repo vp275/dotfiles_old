@@ -201,7 +201,9 @@ c.url.searchengines = {'DEFAULT': 'https://duckduckgo.com/?q={unquoted}',
                        'g':         'https://google.com/search?q={unquoted}',
                        'gn':        'https://google.com/search?q={unquoted}&source=lnms&tbm=nws',
                        'gi':        'https://www.google.com/search?q={unquoted}&hl=en&tbm=isch&source=hp&biw=',
-                       'link':      'https://www.linkedin.com/search/results/all/?keywords={unquoted}'}
+                       'link':      'https://www.linkedin.com/search/results/all/?keywords={unquoted}',
+                       'lg':        'https://libgen.is/search.php?req={unquoted}',
+                       }
 
 # Page(s) to open at the start.
 # Type: List of FuzzyUrl, or FuzzyUrl
@@ -214,12 +216,6 @@ c.zoom.default = '120%'
 # Bindings for normal mode
 config.bind(',ba', 'bookmark-add')
 config.bind(',bd', 'bookmark-del')
-config.bind(',gh', 'open -t https://github.com')
-config.bind(',hn', 'open -t https://news.ycombinator.com')
-config.bind(',rf1', 'open -t https://reddit.com/r/formula1')
-config.bind(',rrd', 'open -t https://reddit.com/r/reddevils')
-config.bind(',rsoc', 'open -t https://reddit.com/r/soccer')
-config.bind(',smu', 'open -t https://elearn.smu.edu.sg/d2l/home')
 config.bind('0', 'zoom')
 config.bind('=', 'zoom-in')
 config.bind('J', 'tab-prev')
@@ -241,6 +237,17 @@ config.bind('wq', 'quit')
 config.bind('qr', 'restart')
 
 config.unbind('q')
+
+
+
+# Quick launcher
+
+config.bind(',gh', 'open -t https://github.com')
+config.bind(',hn', 'open -t https://news.ycombinator.com')
+config.bind(',rf1', 'open -t https://reddit.com/r/formula1')
+config.bind(',rrd', 'open -t https://reddit.com/r/reddevils')
+config.bind(',rsoc', 'open -t https://reddit.com/r/soccer')
+config.bind(',smu', 'open -t https://elearn.smu.edu.sg/d2l/home')
 
 
 # Qutebrowser Fonts

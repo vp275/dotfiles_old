@@ -274,8 +274,7 @@ bindsym $mod+b exec brave
 
 # Assign Programs to Workspace
 # for_window [class="Emacs"] move to workspace $ws1
-for_window [instance="crx_icccedgnljiiiljcefgoeklhfdmlpjhh"] move to workspace $ws1
-for_window [class="discord"] move to workspace $ws12
+for_window [class="zoom"] move to workspace $ws1
 for_window [class="TradingView"] move to workspace $ws3
 for_window [instance="crx_mdgacmegdapeabbgeipilljdhmibgobo"] move to workspace $ws3
 for_window [instance="crx_dgjelipecbboepmgmphabimaihmnndno"] move to workspace $ws4
@@ -286,6 +285,8 @@ for_window [instance="crx_agimnkijcaahngcdmfeangaknmldooml"] move to workspace $
 for_window [class="Thunderbird"] move to workspace $ws9
 for_window [instance="crx_cinhimbnkkaeohfgghhklpknlkffjgod"] move to workspace $ws10
 for_window [instance="crx_eblnmhdhdbpcgejeepegnjccdalemccc"] move to workspace $ws11
+for_window [instance="crx_icccedgnljiiiljcefgoeklhfdmlpjhh"] move to workspace $ws11
+for_window [class="discord"] move to workspace $ws12
 for_window [class="whatsdesk"] move to workspace $ws12
 
 # Make the currently focused window a scratchpad

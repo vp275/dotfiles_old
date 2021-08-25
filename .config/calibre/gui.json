@@ -194,7 +194,7 @@
     "__value__": "AAAA/wAAAAEAAAACAAABxgAAAcIA/////wEAAAABAA=="
   },
   "library_usage_stats": {
-    "/home/vp/MEGA/calibre": 54,
+    "/home/vp/MEGA/calibre": 60,
     "/home/vp/cal1": 270
   },
   "metasingle_window_geometry3": {
@@ -203,11 +203,12 @@
   },
   "preferences dialog geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAACoAAAB9QAABtcAAAYzAAAArAAAAfUAAAbTAAAGLwAAAAAAAAAADwAAAACsAAAB9QAABtMAAAYv"
+    "__value__": "AdnQywADAAAAAARoAAAB9QAACpcAAAYzAAAEbAAAAfUAAAqTAAAGLwAAAAAAAAAADwAAAARsAAAB9QAACpMAAAYv"
   },
   "previous_sort_order_BooksView": {
     "#area": true,
     "#audiobook": true,
+    "#course": false,
     "#status": false,
     "authors": false,
     "last_modified": false,

@@ -6,5 +6,5 @@
 
 config_version: 2
 settings:
-  content.notifications.enabled:
-    https://realsport101.com: false
+  content.geolocation:
+    https://www.metropolisindia.com: false
