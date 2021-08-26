@@ -5,21 +5,28 @@ import:
 
 font:
   normal:
-    family: JetBrains Mono 
+    family: JetBrainsMono Nerd Font
     style: Light
 
   bold:
-    family: JetBrains Mono
+    family: JetBrainsMono Nerd Font
     style: Light Bold
 
   italic:
-    family: JetBrains Mono 
+    family: JetBrainsMono Nerd Font
     style: Light Italic
 
   bold-italic:
-    family: JetBrains Mono
+    family: JetBrainsMono Nerd Font
     style: Light Bold Italic
 
   size: 10
 
 background_opacity: 0.95
+
+
+# Font for powerlevel 10k
+#font: 
+#  normal:
+#    family: "MesloLGS NF"
+
