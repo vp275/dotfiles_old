@@ -247,7 +247,8 @@ config.bind(',hn', 'open -t https://news.ycombinator.com')
 config.bind(',rf1', 'open -t https://reddit.com/r/formula1')
 config.bind(',rrd', 'open -t https://reddit.com/r/reddevils')
 config.bind(',rsoc', 'open -t https://reddit.com/r/soccer')
-config.bind(',smu', 'open -t https://elearn.smu.edu.sg/d2l/home')
+config.bind(',se', 'open -t https://elearn.smu.edu.sg/d2l/home')
+config.bind(',so', 'open -t https://oasis.smu.edu.sg')
 
 
 # Qutebrowser Fonts
