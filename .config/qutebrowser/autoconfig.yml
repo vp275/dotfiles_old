@@ -6,5 +6,5 @@
 
 config_version: 2
 settings:
-  content.geolocation:
-    https://www.metropolisindia.com: false
+  content.notifications.enabled:
+    https://www.fmaths.com: false

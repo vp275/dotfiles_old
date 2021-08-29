@@ -249,6 +249,7 @@ config.bind(',rrd', 'open -t https://reddit.com/r/reddevils')
 config.bind(',rsoc', 'open -t https://reddit.com/r/soccer')
 config.bind(',se', 'open -t https://elearn.smu.edu.sg/d2l/home')
 config.bind(',so', 'open -t https://oasis.smu.edu.sg')
+config.bind(',stt', 'open -t https://oasis.smu.edu.sg/InFlightLite/IFSSO.aspx?targetUrl=https://eservices.smu.edu.sg/psc/ps/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSR_SSENRL_LIST.GBL')
 
 
 # Qutebrowser Fonts
