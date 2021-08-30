@@ -5,19 +5,15 @@
   "select-folder-for-imported-library": "/home/vp/cal1",
   "sort_history": [
     [
+      "#status",
+      false
+    ],
+    [
       "title",
       true
     ],
     [
       "#course",
-      false
-    ],
-    [
-      "#area",
-      true
-    ],
-    [
-      "#status",
       false
     ],
     [

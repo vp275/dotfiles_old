@@ -50,9 +50,13 @@
 ;(unpin! t)
 
 
-(package! org-roam-server)
+;; (package! org-roam-server)
 (package! pine-script-mode)
 (package! org-bullets)
 (package! vulpea)
 
 (unpin! org-roam)
+
+;;Packages for org roam ui
+(package! websocket)
+(package! org-roam-ui :recipe (:host github :repo "org-roam/org-roam-ui" :files ("*.el" "out")))
