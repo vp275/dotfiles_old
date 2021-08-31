@@ -24,8 +24,8 @@
 
 ;; (setq doom-font (font-spec :family "Sarasa Term K" :size 25))
 ;; (setq doom-variable-pitch-font (font-spec :family "Sarasa Term K" :size 25))
-(setq doom-font (font-spec :family "JetBrains Mono" :size 23 :weight 'Light))
-(setq doom-variable-pitch-font (font-spec :family "JetBrains Mono" :size 23 :weight 'Light))
+(setq doom-font (font-spec :family "JetBrainsMono Nerd Font" :size 23 :weight 'Light))
+(setq doom-variable-pitch-font (font-spec :family "JetBrainsMono Nerd Font" :size 23 :weight 'Light))
 
 ;; There are two ways to load a theme. Both assume the theme is installed and
 ;; available. You can either set `doom-theme' or manually load a theme with the
@@ -58,14 +58,19 @@
 ;; You can also try 'gd' (or 'C-c c d') to jump to their definition and see how
 ;; they are implemented.
 
+;; Emacs Transparency
+(set-frame-parameter (selected-frame) 'alpha '(98 98))
+(add-to-list 'default-frame-alist '(alpha 98 98))
 
 
-(setq org-roam-directory "~/org/org-roam")
+;; Org related stuff
 (setq deft-directory "~/org/org-roam")
+
+;; (setq org-roam-completion-everywhere t)
 
 (setq org-journal-dir "~/org/journal")
 
-(setq org-agenda-files '("~/org/gtd/"))
+(setq org-agenda-files '("~/org/org-roam" "~/org/org-roam/daily/"))
 (setq +org-capture-todo-file "~/org/gtd/inbox.org")
 
 (setq org-roam-db-location "~/org/org-roam/org-roam.db")
@@ -73,13 +78,20 @@
 
 (setq doom-modeline-major-mode-icon t)
 
-;; Emacs Transparency
-(set-frame-parameter (selected-frame) 'alpha '(98 98))
-(add-to-list 'default-frame-alist '(alpha 98 98))
 
 
 (require 'org)
 (setq org-clock-sound "~/.doom.d/ding.wav")
+
+
+;;Org roam
+
+(use-package org-roam
+  :ensure t
+  :init
+  :custom
+  (org-roam-directory "~/org/org-roam")
+  (org-roam-complete-everywhere t))
 
 
 
@@ -90,7 +102,7 @@
 
 (setq org-timer-default-timer 25)
 
-
+(setq org-deadline-warning-days 3)
 
 
 ;; Keybinding Setup
@@ -98,7 +110,11 @@
 (map! :leader
       (:prefix ("t". "timer")
        :desc "Start a timer"            "t" #'org-timer-set-timer
-       :desc "Stop timer"               "s" #'org-timer-stop))
+       :desc "Stop timer"               "s" #'org-timer-stop)
+      (:prefix ("nr". "roam")
+       :desc "Completion at point"      "c" #'completion-at-point)
+      (:prefix ("oa". "Org Agenda")
+       :desc "Agenda Month View"        "m" #'org-agenda-month-view))
 
 ;; (map! :leader
 ;;       :desc "i3 Config"
@@ -117,8 +133,8 @@
 
 
 ;; Org roam ui
-;; (use-package! websocket
-;;     :after org-roam)
+(use-package! websocket
+    :after org-roam)
 
 (use-package! org-roam-ui
     :after org-roam ;; or :after org
