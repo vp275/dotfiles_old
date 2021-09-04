@@ -1,5 +1,9 @@
 {
   "add books dialog dir": "/home/vp/Downloads",
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
   "choose-export-folder-for-import": "/home/vp/MEGA/1inbox/ubuntu to arch backup - 4 Jul 2021/calibre backup - 6 jul 2021",
   "database location dialog": "/home/vp/MEGA/calibre",
   "select-folder-for-imported-library": "/home/vp/cal1",

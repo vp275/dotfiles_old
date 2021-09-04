@@ -28,6 +28,68 @@
     "__value__": "AdnQywADAAAAAAAZAAAAAAAADtYAAAhBAAAAGwAAAAIAAA7UAAAIPwAAAAAAAAAADwAAAAAbAAAAAgAADtQAAAg/"
   },
   "bulk_metadata_window_tab": 0,
+  "card_a_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 120,
+      "collections": 134,
+      "inlibrary": 123,
+      "size": 72,
+      "timestamp": 89,
+      "title": 75
+    },
+    "hidden_columns": [],
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
+  "card_b_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 120,
+      "collections": 134,
+      "inlibrary": 123,
+      "size": 72,
+      "timestamp": 89,
+      "title": 75
+    },
+    "hidden_columns": [],
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
   "choose-merge-dialog-geometry": {
     "__class__": "bytearray",
     "__value__": "AdnQywADAAAAAAI0AAADcgAABU8AAAThAAACNgAAA3QAAAVNAAAE3wAAAAAAAAAADwAAAAI2AAADdAAABU0AAATf"
@@ -194,8 +256,39 @@
     "__value__": "AAAA/wAAAAEAAAACAAABxgAAAcIA/////wEAAAABAA=="
   },
   "library_usage_stats": {
-    "/home/vp/MEGA/calibre": 72,
+    "/home/vp/MEGA/calibre": 74,
     "/home/vp/cal1": 270
+  },
+  "memory_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 120,
+      "collections": 134,
+      "inlibrary": 123,
+      "size": 72,
+      "timestamp": 89,
+      "title": 75
+    },
+    "hidden_columns": [],
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ]
+    ]
   },
   "metasingle_window_geometry3": {
     "__class__": "bytearray",
@@ -233,6 +326,7 @@
     "English"
   ],
   "search bar visible": true,
+  "server3_warning_done": true,
   "show_emblems": false,
   "tag browser search box visible": false,
   "tag_browser_splitter_horizontal_state": [
