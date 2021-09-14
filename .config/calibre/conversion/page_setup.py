@@ -1,3 +1,3 @@
 json:{
-  "output_profile": "tablet"
+  "output_profile": "ipad3"
 }

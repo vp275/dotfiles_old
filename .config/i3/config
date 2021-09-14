@@ -244,6 +244,7 @@ set $ubgcolor   #ff0000
 # Startup applications
 exec_always flameshot
 exec_always megasync
+exec_always dropbox
 exec guake
 exec_always picom --config ~/.config/picom/picom.conf
 exec_always albert
@@ -255,7 +256,7 @@ exec dunst
 exec_always setxkbmap -option caps:escape
 
 # Display wallpaper
-exec_always feh --bg-fill ~/MEGA/wallpapersVP/2021/elementaryos.jpg
+exec_always feh --bg-fill ~/Dropbox/wallpapersVP/2021/elementaryos.jpg
 
 
 # App keybindings
@@ -266,8 +267,8 @@ bindsym $mod+Ctrl+Shift+e exec alacritty -e broot
 bindsym $mod+plus exec amixer set Master 5%+
 bindsym $mod+minus exec amixer set Master 5%-
 bindsym $mod+BackSpace exec amixer set Master toggle
-bindsym $mod+Shift+s exec flameshot gui -p /home/vp/MEGA/1inbox/
-bindsym $mod+Shift+w exec flameshot full -p /home/vp/MEGA/1inbox/
+bindsym $mod+Shift+s exec flameshot gui -p /home/vp/Dropbox/1inbox/
+bindsym $mod+Shift+w exec flameshot full -p /home/vp/Dropbox/1inbox/
 bindsym $mod+Shift+n exec brave --incognito
 bindsym $mod+Shift+space exec emacs
 bindsym $mod+b exec brave

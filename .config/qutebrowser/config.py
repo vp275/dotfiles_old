@@ -211,7 +211,8 @@ c.url.searchengines = {'DEFAULT':   'https://google.com/search?q={unquoted}',
                        'gi':        'https://www.google.com/search?q={unquoted}&hl=en&tbm=isch&source=hp&biw=',
                        'link':      'https://www.linkedin.com/search/results/all/?keywords={unquoted}',
                        'lg':        'https://libgen.is/search.php?req={unquoted}',
-                       'fbr':        'https://fbref.com/en/search/search.fcgi?search={unquoted}'
+                       'fbr':       'https://fbref.com/en/search/search.fcgi?search={unquoted}',
+                       'mif':       'https://mathisfun.com/search/search.html?query={unquoted}'
                        }
 
 # Page(s) to open at the start.
