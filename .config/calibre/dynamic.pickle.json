@@ -9,16 +9,16 @@
   "select-folder-for-imported-library": "/home/vp/cal1",
   "sort_history": [
     [
+      "timestamp",
+      false
+    ],
+    [
       "#status",
       false
     ],
     [
       "title",
       true
-    ],
-    [
-      "#course",
-      false
     ],
     [
       "timestamp",

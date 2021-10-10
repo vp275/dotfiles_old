@@ -289,7 +289,7 @@ for_window [instance="crx_eblnmhdhdbpcgejeepegnjccdalemccc"] move to workspace $
 for_window [instance="crx_icccedgnljiiiljcefgoeklhfdmlpjhh"] move to workspace $ws11
 for_window [class="discord"] move to workspace $ws12
 for_window [class="TelegramDesktop"] move to workspace $ws12
-for_window [class="whatsapp-nativefier-d40211"] move to workspace $ws12
+for_window [class="Whatsapp-for-linux"] move to workspace $ws12
 
 # Make the currently focused window a scratchpad
 bindsym $mod+Shift+z move scratchpad

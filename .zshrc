@@ -111,8 +111,9 @@ source $ZSH/oh-my-zsh.sh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 
-
-
+# Environment variables
+export PYTHONPATH="/usr/bin/python"
+export PATH="/home/vp/.local/bin:$PATH"
 
 # My configs
 

@@ -252,7 +252,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationMono-Bold.ttf||307856:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationMono-Bold.ttf||307996:1633027421.0": {
       "family_name": "Liberation Mono",
       "font-family": "Liberation Mono",
       "font-stretch": "normal",
@@ -288,7 +288,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationMono-BoldItalic.ttf||283932:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationMono-BoldItalic.ttf||284068:1633027421.0": {
       "family_name": "Liberation Mono",
       "font-family": "Liberation Mono",
       "font-stretch": "normal",
@@ -324,7 +324,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationMono-Italic.ttf||281400:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationMono-Italic.ttf||281536:1633027421.0": {
       "family_name": "Liberation Mono",
       "font-family": "Liberation Mono",
       "font-stretch": "normal",
@@ -360,7 +360,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationMono-Regular.ttf||319368:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationMono-Regular.ttf||319508:1633027421.0": {
       "family_name": "Liberation Mono",
       "font-family": "Liberation Mono",
       "font-stretch": "normal",
@@ -396,7 +396,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationSans-Bold.ttf||415428:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSans-Bold.ttf||414456:1633027421.0": {
       "family_name": "Liberation Sans",
       "font-family": "Liberation Sans",
       "font-stretch": "normal",
@@ -432,7 +432,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationSans-BoldItalic.ttf||410248:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSans-BoldItalic.ttf||408996:1633027421.0": {
       "family_name": "Liberation Sans",
       "font-family": "Liberation Sans",
       "font-stretch": "normal",
@@ -468,7 +468,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationSans-Italic.ttf||416880:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSans-Italic.ttf||415816:1633027421.0": {
       "family_name": "Liberation Sans",
       "font-family": "Liberation Sans",
       "font-stretch": "normal",
@@ -504,7 +504,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationSans-Regular.ttf||411860:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSans-Regular.ttf||410712:1633027421.0": {
       "family_name": "Liberation Sans",
       "font-family": "Liberation Sans",
       "font-stretch": "normal",
@@ -540,7 +540,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationSerif-Bold.ttf||369860:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSerif-Bold.ttf||370096:1633027421.0": {
       "family_name": "Liberation Serif",
       "font-family": "Liberation Serif",
       "font-stretch": "normal",
@@ -576,7 +576,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationSerif-BoldItalic.ttf||376512:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSerif-BoldItalic.ttf||376772:1633027421.0": {
       "family_name": "Liberation Serif",
       "font-family": "Liberation Serif",
       "font-stretch": "normal",
@@ -612,7 +612,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationSerif-Italic.ttf||375368:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSerif-Italic.ttf||375632:1633027421.0": {
       "family_name": "Liberation Serif",
       "font-family": "Liberation Serif",
       "font-stretch": "normal",
@@ -648,7 +648,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/calibre/fonts/liberation/LiberationSerif-Regular.ttf||393336:1620104503.0": {
+    "/usr/share/calibre/fonts/liberation/LiberationSerif-Regular.ttf||393576:1633027421.0": {
       "family_name": "Liberation Serif",
       "font-family": "Liberation Serif",
       "font-stretch": "normal",
@@ -3096,7 +3096,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/TTF/Iosevka Bold Italic Nerd Font Complete Mono.ttf||1281924:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Bold Italic Nerd Font Complete Mono.ttf||1281924:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3132,7 +3132,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Bold Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Bold Italic Nerd Font Complete.ttf||1312396:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Bold Italic Nerd Font Complete.ttf||1312396:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3168,7 +3168,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Bold Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Bold Nerd Font Complete Mono.ttf||1270644:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Bold Nerd Font Complete Mono.ttf||1270644:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3204,7 +3204,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Bold"
     },
-    "/usr/share/fonts/TTF/Iosevka Bold Nerd Font Complete.ttf||1301112:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Bold Nerd Font Complete.ttf||1301112:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3240,7 +3240,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Bold"
     },
-    "/usr/share/fonts/TTF/Iosevka Bold Oblique Nerd Font Complete Mono.ttf||1281788:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Bold Oblique Nerd Font Complete Mono.ttf||1281788:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3276,7 +3276,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Bold Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Bold Oblique Nerd Font Complete.ttf||1312260:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Bold Oblique Nerd Font Complete.ttf||1312260:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3312,7 +3312,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Bold Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Extralight Italic Nerd Font Complete Mono.ttf||1272596:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Extralight Italic Nerd Font Complete Mono.ttf||1272596:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3348,7 +3348,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Extralight Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Extralight Italic Nerd Font Complete.ttf||1303068:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Extralight Italic Nerd Font Complete.ttf||1303068:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3384,7 +3384,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Extralight Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Extralight Nerd Font Complete Mono.ttf||1259352:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Extralight Nerd Font Complete Mono.ttf||1259352:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3420,7 +3420,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Extralight"
     },
-    "/usr/share/fonts/TTF/Iosevka Extralight Nerd Font Complete.ttf||1289824:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Extralight Nerd Font Complete.ttf||1289824:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3456,7 +3456,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Extralight"
     },
-    "/usr/share/fonts/TTF/Iosevka Extralight Oblique Nerd Font Complete Mono.ttf||1272584:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Extralight Oblique Nerd Font Complete Mono.ttf||1272584:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3492,7 +3492,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Extralight Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Extralight Oblique Nerd Font Complete.ttf||1303056:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Extralight Oblique Nerd Font Complete.ttf||1303056:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3528,7 +3528,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Extralight Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Heavy Italic Nerd Font Complete Mono.ttf||1280600:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Heavy Italic Nerd Font Complete Mono.ttf||1280600:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3564,7 +3564,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Heavy Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Heavy Italic Nerd Font Complete.ttf||1311072:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Heavy Italic Nerd Font Complete.ttf||1311072:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3600,7 +3600,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Heavy Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Heavy Nerd Font Complete Mono.ttf||1268364:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Heavy Nerd Font Complete Mono.ttf||1268364:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3636,7 +3636,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Heavy"
     },
-    "/usr/share/fonts/TTF/Iosevka Heavy Nerd Font Complete.ttf||1298832:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Heavy Nerd Font Complete.ttf||1298832:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3672,7 +3672,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Heavy"
     },
-    "/usr/share/fonts/TTF/Iosevka Heavy Oblique Nerd Font Complete Mono.ttf||1279868:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Heavy Oblique Nerd Font Complete Mono.ttf||1279868:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3708,7 +3708,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Heavy Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Heavy Oblique Nerd Font Complete.ttf||1310344:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Heavy Oblique Nerd Font Complete.ttf||1310344:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3744,7 +3744,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Heavy Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Italic Nerd Font Complete Mono.ttf||1280448:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Italic Nerd Font Complete Mono.ttf||1280448:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3780,7 +3780,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Italic Nerd Font Complete.ttf||1310920:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Italic Nerd Font Complete.ttf||1310920:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3816,7 +3816,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Light Italic Nerd Font Complete Mono.ttf||1279852:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Light Italic Nerd Font Complete Mono.ttf||1279852:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3852,7 +3852,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Light Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Light Italic Nerd Font Complete.ttf||1310324:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Light Italic Nerd Font Complete.ttf||1310324:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3888,7 +3888,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Light Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Light Nerd Font Complete Mono.ttf||1265764:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Light Nerd Font Complete Mono.ttf||1265764:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3924,7 +3924,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Light"
     },
-    "/usr/share/fonts/TTF/Iosevka Light Nerd Font Complete.ttf||1296232:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Light Nerd Font Complete.ttf||1296232:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -3960,7 +3960,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Light"
     },
-    "/usr/share/fonts/TTF/Iosevka Light Oblique Nerd Font Complete Mono.ttf||1279356:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Light Oblique Nerd Font Complete Mono.ttf||1279356:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -3996,7 +3996,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Light Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Light Oblique Nerd Font Complete.ttf||1309832:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Light Oblique Nerd Font Complete.ttf||1309832:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4032,7 +4032,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Light Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Medium Italic Nerd Font Complete Mono.ttf||1281064:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Medium Italic Nerd Font Complete Mono.ttf||1281064:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4068,7 +4068,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Medium Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Medium Italic Nerd Font Complete.ttf||1311536:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Medium Italic Nerd Font Complete.ttf||1311536:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4104,7 +4104,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Medium Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Medium Nerd Font Complete Mono.ttf||1268068:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Medium Nerd Font Complete Mono.ttf||1268068:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4140,7 +4140,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Medium"
     },
-    "/usr/share/fonts/TTF/Iosevka Medium Nerd Font Complete.ttf||1298540:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Medium Nerd Font Complete.ttf||1298540:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4176,7 +4176,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Medium"
     },
-    "/usr/share/fonts/TTF/Iosevka Medium Oblique Nerd Font Complete Mono.ttf||1280680:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Medium Oblique Nerd Font Complete Mono.ttf||1280680:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4212,7 +4212,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Medium Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Medium Oblique Nerd Font Complete.ttf||1311152:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Medium Oblique Nerd Font Complete.ttf||1311152:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4248,7 +4248,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Medium Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Nerd Font Complete Mono.ttf||1268512:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Nerd Font Complete Mono.ttf||1268512:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4284,7 +4284,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Regular"
     },
-    "/usr/share/fonts/TTF/Iosevka Nerd Font Complete.ttf||1298984:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Nerd Font Complete.ttf||1298984:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4320,7 +4320,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Regular"
     },
-    "/usr/share/fonts/TTF/Iosevka Oblique Nerd Font Complete Mono.ttf||1280168:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Oblique Nerd Font Complete Mono.ttf||1280168:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4356,7 +4356,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Oblique Nerd Font Complete.ttf||1310640:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Oblique Nerd Font Complete.ttf||1310640:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4392,7 +4392,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Bold Italic Nerd Font Complete Mono.ttf||1278704:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Bold Italic Nerd Font Complete Mono.ttf||1278704:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4428,7 +4428,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Bold Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Bold Italic Nerd Font Complete.ttf||1309144:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Bold Italic Nerd Font Complete.ttf||1309144:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4464,7 +4464,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Bold Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Bold Nerd Font Complete Mono.ttf||1266696:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Bold Nerd Font Complete Mono.ttf||1266696:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4500,7 +4500,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Bold"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Bold Nerd Font Complete.ttf||1297136:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Bold Nerd Font Complete.ttf||1297136:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4536,7 +4536,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Bold"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Bold Oblique Nerd Font Complete Mono.ttf||1278500:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Bold Oblique Nerd Font Complete Mono.ttf||1278500:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4572,7 +4572,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Bold Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Bold Oblique Nerd Font Complete.ttf||1308940:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Bold Oblique Nerd Font Complete.ttf||1308940:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4608,7 +4608,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Bold Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Extralight Italic Nerd Font Complete Mono.ttf||1270036:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Extralight Italic Nerd Font Complete Mono.ttf||1270036:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4644,7 +4644,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Extralight Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Extralight Italic Nerd Font Complete.ttf||1300476:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Extralight Italic Nerd Font Complete.ttf||1300476:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4680,7 +4680,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Extralight Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Extralight Nerd Font Complete Mono.ttf||1255820:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Extralight Nerd Font Complete Mono.ttf||1255820:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4716,7 +4716,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Extralight"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Extralight Nerd Font Complete.ttf||1286264:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Extralight Nerd Font Complete.ttf||1286264:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4752,7 +4752,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Extralight"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Extralight Oblique Nerd Font Complete Mono.ttf||1270072:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Extralight Oblique Nerd Font Complete Mono.ttf||1270072:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4788,7 +4788,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Extralight Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Extralight Oblique Nerd Font Complete.ttf||1300512:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Extralight Oblique Nerd Font Complete.ttf||1300512:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4824,7 +4824,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Extralight Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Heavy Italic Nerd Font Complete Mono.ttf||1278484:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Heavy Italic Nerd Font Complete Mono.ttf||1278484:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4860,7 +4860,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Heavy Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Heavy Italic Nerd Font Complete.ttf||1308924:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Heavy Italic Nerd Font Complete.ttf||1308924:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4896,7 +4896,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Heavy Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Heavy Nerd Font Complete Mono.ttf||1264464:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Heavy Nerd Font Complete Mono.ttf||1264464:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -4932,7 +4932,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Heavy"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Heavy Nerd Font Complete.ttf||1294904:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Heavy Nerd Font Complete.ttf||1294904:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -4968,7 +4968,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Heavy"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Heavy Oblique Nerd Font Complete Mono.ttf||1277716:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Heavy Oblique Nerd Font Complete Mono.ttf||1277716:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5004,7 +5004,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Heavy Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Heavy Oblique Nerd Font Complete.ttf||1308160:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Heavy Oblique Nerd Font Complete.ttf||1308160:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5040,7 +5040,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Heavy Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Italic Nerd Font Complete Mono.ttf||1277820:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Italic Nerd Font Complete Mono.ttf||1277820:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5076,7 +5076,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Italic Nerd Font Complete.ttf||1308260:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Italic Nerd Font Complete.ttf||1308260:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5112,7 +5112,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Light Italic Nerd Font Complete Mono.ttf||1277284:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Light Italic Nerd Font Complete Mono.ttf||1277284:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5148,7 +5148,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Light Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Light Italic Nerd Font Complete.ttf||1307724:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Light Italic Nerd Font Complete.ttf||1307724:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5184,7 +5184,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Light Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Light Nerd Font Complete Mono.ttf||1262468:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Light Nerd Font Complete Mono.ttf||1262468:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5220,7 +5220,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Light"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Light Nerd Font Complete.ttf||1292908:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Light Nerd Font Complete.ttf||1292908:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5256,7 +5256,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Light"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Light Oblique Nerd Font Complete Mono.ttf||1276624:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Light Oblique Nerd Font Complete Mono.ttf||1276624:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5292,7 +5292,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Light Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Light Oblique Nerd Font Complete.ttf||1307068:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Light Oblique Nerd Font Complete.ttf||1307068:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5328,7 +5328,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Light Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Medium Italic Nerd Font Complete Mono.ttf||1277748:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Medium Italic Nerd Font Complete Mono.ttf||1277748:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5364,7 +5364,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Medium Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Medium Italic Nerd Font Complete.ttf||1308188:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Medium Italic Nerd Font Complete.ttf||1308188:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5400,7 +5400,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Medium Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Medium Nerd Font Complete Mono.ttf||1263888:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Medium Nerd Font Complete Mono.ttf||1263888:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5436,7 +5436,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Medium"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Medium Nerd Font Complete.ttf||1294332:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Medium Nerd Font Complete.ttf||1294332:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5472,7 +5472,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Medium"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Medium Oblique Nerd Font Complete Mono.ttf||1277132:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Medium Oblique Nerd Font Complete Mono.ttf||1277132:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5508,7 +5508,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Medium Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Medium Oblique Nerd Font Complete.ttf||1307572:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Medium Oblique Nerd Font Complete.ttf||1307572:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5544,7 +5544,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Medium Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Nerd Font Complete Mono.ttf||1264264:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Nerd Font Complete Mono.ttf||1264264:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5580,7 +5580,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Regular"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Nerd Font Complete.ttf||1294704:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Nerd Font Complete.ttf||1294704:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5616,7 +5616,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Regular"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Oblique Nerd Font Complete Mono.ttf||1277248:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Oblique Nerd Font Complete Mono.ttf||1277248:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5652,7 +5652,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Oblique Nerd Font Complete.ttf||1307688:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Oblique Nerd Font Complete.ttf||1307688:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5688,7 +5688,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Thin Italic Nerd Font Complete Mono.ttf||1265988:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Thin Italic Nerd Font Complete Mono.ttf||1265988:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5724,7 +5724,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Thin Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Thin Italic Nerd Font Complete.ttf||1296432:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Thin Italic Nerd Font Complete.ttf||1296432:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5760,7 +5760,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Thin Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Thin Nerd Font Complete Mono.ttf||1253784:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Thin Nerd Font Complete Mono.ttf||1253784:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5796,7 +5796,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Thin"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Thin Nerd Font Complete.ttf||1284228:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Thin Nerd Font Complete.ttf||1284228:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5832,7 +5832,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Thin"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Thin Oblique Nerd Font Complete Mono.ttf||1266600:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Thin Oblique Nerd Font Complete Mono.ttf||1266600:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5868,7 +5868,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Thin Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Term Thin Oblique Nerd Font Complete.ttf||1297040:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Term Thin Oblique Nerd Font Complete.ttf||1297040:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5904,7 +5904,7 @@
       "wws_family_name": "Iosevka Term",
       "wws_subfamily_name": "Thin Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Thin Italic Nerd Font Complete Mono.ttf||1270652:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Thin Italic Nerd Font Complete Mono.ttf||1270652:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -5940,7 +5940,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Thin Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Thin Italic Nerd Font Complete.ttf||1301128:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Thin Italic Nerd Font Complete.ttf||1301128:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -5976,7 +5976,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Thin Italic"
     },
-    "/usr/share/fonts/TTF/Iosevka Thin Nerd Font Complete Mono.ttf||1257344:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Thin Nerd Font Complete Mono.ttf||1257344:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -6012,7 +6012,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Thin"
     },
-    "/usr/share/fonts/TTF/Iosevka Thin Nerd Font Complete.ttf||1287816:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Thin Nerd Font Complete.ttf||1287816:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -6048,7 +6048,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Thin"
     },
-    "/usr/share/fonts/TTF/Iosevka Thin Oblique Nerd Font Complete Mono.ttf||1271204:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Thin Oblique Nerd Font Complete Mono.ttf||1271204:1632578710.0": {
       "family_name": "Iosevka Nerd Font Mono",
       "font-family": "Iosevka Nerd Font Mono",
       "font-stretch": "normal",
@@ -6084,7 +6084,7 @@
       "wws_family_name": "Iosevka",
       "wws_subfamily_name": "Thin Oblique"
     },
-    "/usr/share/fonts/TTF/Iosevka Thin Oblique Nerd Font Complete.ttf||1301676:1628228447.0": {
+    "/usr/share/fonts/TTF/Iosevka Thin Oblique Nerd Font Complete.ttf||1301676:1632578710.0": {
       "family_name": "Iosevka Nerd Font",
       "font-family": "Iosevka Nerd Font",
       "font-stretch": "normal",
@@ -10332,187 +10332,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/cantarell/Cantarell-Bold.otf||103628:1608683914.0": {
-      "family_name": "Cantarell",
-      "font-family": "Cantarell",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "bold",
-      "fs_type": 0,
-      "full_name": "Cantarell Bold",
-      "is_bold": true,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": false,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "path": "/usr/share/fonts/cantarell/Cantarell-Bold.otf",
-      "preferred_family_name": null,
-      "preferred_subfamily_name": null,
-      "subfamily_name": "Bold",
-      "weight": 700,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/cantarell/Cantarell-ExtraBold.otf||105548:1608683914.0": {
-      "family_name": "Cantarell Extra Bold",
-      "font-family": "Cantarell Extra Bold",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "800",
-      "fs_type": 0,
-      "full_name": "Cantarell Extra Bold",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": true,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "path": "/usr/share/fonts/cantarell/Cantarell-ExtraBold.otf",
-      "preferred_family_name": "Cantarell",
-      "preferred_subfamily_name": "Extra Bold",
-      "subfamily_name": "Regular",
-      "weight": 800,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/cantarell/Cantarell-Light.otf||103432:1608683914.0": {
-      "family_name": "Cantarell Light",
-      "font-family": "Cantarell Light",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "300",
-      "fs_type": 0,
-      "full_name": "Cantarell Light",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": true,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "path": "/usr/share/fonts/cantarell/Cantarell-Light.otf",
-      "preferred_family_name": "Cantarell",
-      "preferred_subfamily_name": "Light",
-      "subfamily_name": "Regular",
-      "weight": 300,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/cantarell/Cantarell-Regular.otf||100216:1608683914.0": {
-      "family_name": "Cantarell",
-      "font-family": "Cantarell",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "normal",
-      "fs_type": 0,
-      "full_name": "Cantarell Regular",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": true,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "path": "/usr/share/fonts/cantarell/Cantarell-Regular.otf",
-      "preferred_family_name": null,
-      "preferred_subfamily_name": null,
-      "subfamily_name": "Regular",
-      "weight": 400,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/cantarell/Cantarell-Thin.otf||99048:1608683914.0": {
-      "family_name": "Cantarell Thin",
-      "font-family": "Cantarell Thin",
-      "font-stretch": "normal",
-      "font-style": "normal",
-      "font-weight": "100",
-      "fs_type": 0,
-      "full_name": "Cantarell Thin",
-      "is_bold": false,
-      "is_italic": false,
-      "is_oblique": false,
-      "is_otf": true,
-      "is_regular": true,
-      "is_wws": false,
-      "os2_version": 4,
-      "panose": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "path": "/usr/share/fonts/cantarell/Cantarell-Thin.otf",
-      "preferred_family_name": "Cantarell",
-      "preferred_subfamily_name": "Thin",
-      "subfamily_name": "Regular",
-      "weight": 100,
-      "width": 5,
-      "wws_family_name": null,
-      "wws_subfamily_name": null
-    },
-    "/usr/share/fonts/cantarell/Cantarell-VF.otf||170576:1608683914.0": {
+    "/usr/share/fonts/cantarell/Cantarell-VF.otf||170588:1631810031.0": {
       "family_name": "Cantarell",
       "font-family": "Cantarell",
       "font-stretch": "normal",
@@ -11808,7 +11628,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationMono-Bold.ttf||307856:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationMono-Bold.ttf||307996:1633027421.0": {
       "family_name": "Liberation Mono",
       "font-family": "Liberation Mono",
       "font-stretch": "normal",
@@ -11844,7 +11664,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationMono-BoldItalic.ttf||283932:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationMono-BoldItalic.ttf||284068:1633027421.0": {
       "family_name": "Liberation Mono",
       "font-family": "Liberation Mono",
       "font-stretch": "normal",
@@ -11880,7 +11700,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationMono-Italic.ttf||281400:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationMono-Italic.ttf||281536:1633027421.0": {
       "family_name": "Liberation Mono",
       "font-family": "Liberation Mono",
       "font-stretch": "normal",
@@ -11916,7 +11736,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationMono-Regular.ttf||319368:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationMono-Regular.ttf||319508:1633027421.0": {
       "family_name": "Liberation Mono",
       "font-family": "Liberation Mono",
       "font-stretch": "normal",
@@ -11952,7 +11772,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationSans-Bold.ttf||415428:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationSans-Bold.ttf||414456:1633027421.0": {
       "family_name": "Liberation Sans",
       "font-family": "Liberation Sans",
       "font-stretch": "normal",
@@ -11988,7 +11808,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationSans-BoldItalic.ttf||410248:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationSans-BoldItalic.ttf||408996:1633027421.0": {
       "family_name": "Liberation Sans",
       "font-family": "Liberation Sans",
       "font-stretch": "normal",
@@ -12024,7 +11844,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationSans-Italic.ttf||416880:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationSans-Italic.ttf||415816:1633027421.0": {
       "family_name": "Liberation Sans",
       "font-family": "Liberation Sans",
       "font-stretch": "normal",
@@ -12060,7 +11880,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationSans-Regular.ttf||411860:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationSans-Regular.ttf||410712:1633027421.0": {
       "family_name": "Liberation Sans",
       "font-family": "Liberation Sans",
       "font-stretch": "normal",
@@ -12096,7 +11916,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationSerif-Bold.ttf||369860:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationSerif-Bold.ttf||370096:1633027421.0": {
       "family_name": "Liberation Serif",
       "font-family": "Liberation Serif",
       "font-stretch": "normal",
@@ -12132,7 +11952,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationSerif-BoldItalic.ttf||376512:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationSerif-BoldItalic.ttf||376772:1633027421.0": {
       "family_name": "Liberation Serif",
       "font-family": "Liberation Serif",
       "font-stretch": "normal",
@@ -12168,7 +11988,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationSerif-Italic.ttf||375368:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationSerif-Italic.ttf||375632:1633027421.0": {
       "family_name": "Liberation Serif",
       "font-family": "Liberation Serif",
       "font-stretch": "normal",
@@ -12204,7 +12024,7 @@
       "wws_family_name": null,
       "wws_subfamily_name": null
     },
-    "/usr/share/fonts/liberation/LiberationSerif-Regular.ttf||393336:1620104503.0": {
+    "/usr/share/fonts/liberation/LiberationSerif-Regular.ttf||393576:1633027421.0": {
       "family_name": "Liberation Serif",
       "font-family": "Liberation Serif",
       "font-stretch": "normal",
