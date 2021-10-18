@@ -5,7 +5,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAGPAAAIJvwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawEAAAAAAAAIJgAAANAA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAA3wD///8AAAABAAABLgAACCb8AgAAAAT7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsCAAAGTwAAAAAAAAErAAAEOPsAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABUA////+wAAAB4AaABpAGcAaABsAGkAZwBoAHQAcwAtAGQAbwBjAGsAAAAAAP////8AAAErAP////sAAAAWAGwAbwBvAGsAdQBwAC0AZABvAGMAawAAAAAAAAAIJgAAAKoA////AAANXwAACCYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAGPAAAIJvwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAIJgAAANAA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAA3wD///8AAAABAAABLgAACCb8AgAAAAT7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsCAAAGTwAAAAAAAAErAAAEOPsAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABUA////+wAAAB4AaABpAGcAaABsAGkAZwBoAHQAcwAtAGQAbwBjAGsAAAAAAP////8AAAErAP////sAAAAWAGwAbwBvAGsAdQBwAC0AZABvAGMAawAAAAAAAAAIJgAAAKoA////AAAO+AAACCYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "session_data": {
@@ -324,6 +324,15 @@
     "standalone_recently_opened": [
       {
         "authors": [
+          "Scott E. Page"
+        ],
+        "key": "/home/vp/Dropbox/calibre/Scott E. Page/The Model Thinker (108)/The Model Thinker - Scott E. Page.epub",
+        "pathtoebook": "/home/vp/Dropbox/calibre/Scott E. Page/The Model Thinker (108)/The Model Thinker - Scott E. Page.epub",
+        "timestamp": "2021-10-12T03:34:44.288Z",
+        "title": "The Model Thinker"
+      },
+      {
+        "authors": [
           "Yves Hilpisch"
         ],
         "key": "/home/vp/MEGA/calibre/Yves Hilpisch/Python for Algorithmic Trading (96)/Python for Algorithmic Trading - Yves Hilpisch.epub",
@@ -539,15 +548,6 @@
         "pathtoebook": "/home/vedant/MEGA/calibre/Al Brooks/Trading Price Action Trends (47)/Trading Price Action Trends - Al Brooks.epub",
         "timestamp": "2021-01-18T16:03:42.126Z",
         "title": "Trading Price Action Trends"
-      },
-      {
-        "authors": [
-          "Yves Hilpisch"
-        ],
-        "key": "/home/vedant/MEGA/calibre/Yves Hilpisch/Python for Finance_ Analyze Big Financial Data (7)/Python for Finance_ Analyze Big Financial - Yves Hilpisch.epub",
-        "pathtoebook": "/home/vedant/MEGA/calibre/Yves Hilpisch/Python for Finance_ Analyze Big Financial Data (7)/Python for Finance_ Analyze Big Financial - Yves Hilpisch.epub",
-        "timestamp": "2021-01-13T15:14:26.463Z",
-        "title": "Python for Finance: Analyze Big Financial Data"
       }
     ],
     "user_color_schemes": {}
