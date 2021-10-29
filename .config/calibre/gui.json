@@ -6,7 +6,7 @@
   },
   "book_details_splitter_horizontal_state": [
     true,
-    200
+    496
   ],
   "book_info_dialog_layout": [
     {
@@ -256,7 +256,7 @@
     "__value__": "AAAA/wAAAAEAAAACAAABxgAAAcIA/////wEAAAABAA=="
   },
   "library_usage_stats": {
-    "/home/vp/Dropbox/calibre": 34,
+    "/home/vp/Dropbox/calibre": 58,
     "/home/vp/MEGA/calibre": 76,
     "/home/vp/cal1": 270
   },
@@ -310,7 +310,7 @@
     "rating": true,
     "tags": false,
     "timestamp": false,
-    "title": true
+    "title": false
   },
   "quick_start_guide_added": true,
   "quickview visible": false,

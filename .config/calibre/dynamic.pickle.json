@@ -13,12 +13,12 @@
       false
     ],
     [
-      "#status",
+      "title",
       false
     ],
     [
-      "title",
-      true
+      "timestamp",
+      false
     ],
     [
       "timestamp",

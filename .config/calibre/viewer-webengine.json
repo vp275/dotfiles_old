@@ -1,11 +1,11 @@
 {
   "main_window_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAAAAAAARgAADv8AAAhvAAAABAAAAEYAAA77AAAIawAAAAAAAAAADwAAAAAEAAAARgAADvsAAAhr"
+    "__value__": "AdnQywADAAAAAAeAAAAARgAADv8AAAhvAAAHhAAAAEYAAA77AAAIawAAAAAAAAAADwAAAAeEAAAARgAADvsAAAhr"
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAGPAAAIJvwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAIJgAAANAA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAA3wD///8AAAABAAABLgAACCb8AgAAAAT7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsCAAAGTwAAAAAAAAErAAAEOPsAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABUA////+wAAAB4AaABpAGcAaABsAGkAZwBoAHQAcwAtAGQAbwBjAGsAAAAAAP////8AAAErAP////sAAAAWAGwAbwBvAGsAdQBwAC0AZABvAGMAawAAAAAAAAAIJgAAAKoA////AAAO+AAACCYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAGPAAAIJvwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawEAAAAAAAAIJgAAANAA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAA3wD///8AAAABAAABLgAACCb8AgAAAAT7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsCAAAGTwAAAAAAAAErAAAEOPsAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABUA////+wAAAB4AaABpAGcAaABsAGkAZwBoAHQAcwAtAGQAbwBjAGsAAAAAAP////8AAAErAP////sAAAAWAGwAbwBvAGsAdQBwAC0AZABvAGMAawAAAAAAAAAIJgAAAKoA////AAAF3wAACCYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "session_data": {
@@ -324,6 +324,24 @@
     "standalone_recently_opened": [
       {
         "authors": [
+          "Yves Hilpisch"
+        ],
+        "key": "/home/vp/Dropbox/calibre/Yves Hilpisch/Financial Theory with Python (110)/Financial Theory with Python - Yves Hilpisch.epub",
+        "pathtoebook": "/home/vp/Dropbox/calibre/Yves Hilpisch/Financial Theory with Python (110)/Financial Theory with Python - Yves Hilpisch.epub",
+        "timestamp": "2021-10-27T14:02:52.045Z",
+        "title": "Financial Theory with Python"
+      },
+      {
+        "authors": [
+          "Yves Hilpisch"
+        ],
+        "key": "/home/vp/Dropbox/calibre/Yves Hilpisch/Python for Algorithmic Trading (96)/Python for Algorithmic Trading - Yves Hilpisch.epub",
+        "pathtoebook": "/home/vp/Dropbox/calibre/Yves Hilpisch/Python for Algorithmic Trading (96)/Python for Algorithmic Trading - Yves Hilpisch.epub",
+        "timestamp": "2021-10-26T15:22:33.779Z",
+        "title": "Python for Algorithmic Trading"
+      },
+      {
+        "authors": [
           "Scott E. Page"
         ],
         "key": "/home/vp/Dropbox/calibre/Scott E. Page/The Model Thinker (108)/The Model Thinker - Scott E. Page.epub",
@@ -530,24 +548,6 @@
         "pathtoebook": "/home/vedant/MEGA/calibre/Cal Newport;/Digital Minimalism (38)/Digital Minimalism - Cal Newport;.epub",
         "timestamp": "2021-01-24T14:13:05.873Z",
         "title": "Digital Minimalism"
-      },
-      {
-        "authors": [
-          "Al Brooks"
-        ],
-        "key": "/home/vedant/MEGA/calibre/Al Brooks/Trading Price Action Reversals (48)/Trading Price Action Reversals - Al Brooks.epub",
-        "pathtoebook": "/home/vedant/MEGA/calibre/Al Brooks/Trading Price Action Reversals (48)/Trading Price Action Reversals - Al Brooks.epub",
-        "timestamp": "2021-01-22T02:48:06.964Z",
-        "title": "Trading Price Action Reversals"
-      },
-      {
-        "authors": [
-          "Al Brooks"
-        ],
-        "key": "/home/vedant/MEGA/calibre/Al Brooks/Trading Price Action Trends (47)/Trading Price Action Trends - Al Brooks.epub",
-        "pathtoebook": "/home/vedant/MEGA/calibre/Al Brooks/Trading Price Action Trends (47)/Trading Price Action Trends - Al Brooks.epub",
-        "timestamp": "2021-01-18T16:03:42.126Z",
-        "title": "Trading Price Action Trends"
       }
     ],
     "user_color_schemes": {}
